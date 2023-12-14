@@ -8,6 +8,9 @@ The **`htb-machines.sh`** script interacts with HTB Machines data (Hack The Box 
 
 **./htb-machines.sh [options]**
 
+`You can rename the file htboxmachins.sh to htb-machines.sh if you wish, or run it with ./htboxmachins.sh. In practical cases, for the first use, it is recommended to use ./htboxmachins.sh -u to download the necessary files for the script to function properly.`
+
+
 ## Options
 
 1.  **Search for Machine Name:**
